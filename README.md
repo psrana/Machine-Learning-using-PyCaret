@@ -1,5 +1,5 @@
 ---
-# **PyCaret for Regression**
+# **PyCaret for Machine Learning**
 ---
 - It is a bundle of many Machine Learning algorithms.
 - Only three lines of code is required to compare 20 ML models.
@@ -11,9 +11,7 @@
 ---
 
 ### **Self Learning Resource**
-1. Tutorial on Pycaret <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a> 
-
-2. Documentation on Pycaret-Regression: <a href="https://pycaret.org/regression/"> Click Here </a>
+Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a> 
 
 ---
 
