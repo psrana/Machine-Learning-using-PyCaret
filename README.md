@@ -18,7 +18,7 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 ### **In this tutorial we will learn:**
 
 - Getting Data: How to import data from PyCaret repository
-- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression models
+- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
 - Create Model: How to create a model, perform cross validation and evaluate regression metrics
 - Tune Model: How to automatically tune the hyperparameters of a regression model
 - Plot Model: How to analyze model performance using various plots
