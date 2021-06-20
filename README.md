@@ -28,6 +28,7 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 ```
 from pycaret.datasets import get_data
 from pycaret.regression import *
+
 insuranceDataSet = get_data("insurance")
 s = setup(data = insuranceDataSet, target='charges', silent=True)
 cm = compare_models()
