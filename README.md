@@ -28,12 +28,11 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 
 ---
 
-
----
 ### **Three line of code for model comparison for "Insurance" dataset**
 ---
 
 from pycaret.datasets import get_data
+
 from pycaret.regression import *
 
 insuranceDataSet = get_data("insurance")
