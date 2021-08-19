@@ -37,7 +37,6 @@ cm = compare_models()
 ---
 ### **Outcome**
 ```
-
-![Outcome](https://user-images.githubusercontent.com/7460892/130012380-60b68349-5c07-4f61-a22d-2b40f0d516ce.png)
+![image](https://user-images.githubusercontent.com/7460892/130012723-b9b1a07e-7d8d-4fac-8764-2d13b10ae9c6.png)
 
 
