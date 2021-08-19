@@ -33,3 +33,9 @@ insuranceDataSet = get_data("insurance")
 s = setup(data = insuranceDataSet, target='charges', silent=True)
 cm = compare_models()
 ```
+
+---
+### **Outcome**
+```
+
+![image](https://user-images.githubusercontent.com/7460892/130011931-68da59aa-22af-474d-99e6-a035e3101e88.png)
