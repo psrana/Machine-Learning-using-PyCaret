@@ -34,7 +34,11 @@ s = setup(data = insuranceDataSet, target='charges', silent=True)
 cm = compare_models()
 ```
 ---
-### **Outcome**
+### **Outcome for Regression**
 ![image](https://user-images.githubusercontent.com/7460892/130013128-d5c349bd-5aca-4eea-b9bc-81cf09e5d1ed.png)
+
+
+### **Outcome for Clustering**
+![image](https://user-images.githubusercontent.com/7460892/131206252-10a4e5ec-ec8f-4017-8617-ae46d47dcdcf.png)
 
 
