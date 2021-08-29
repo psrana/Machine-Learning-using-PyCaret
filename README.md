@@ -35,7 +35,7 @@ cm = compare_models()
 ```
 ---
 ### **Outcome for Regression**
-![image](https://user-images.githubusercontent.com/7460892/130013128-d5c349bd-5aca-4eea-b9bc-81cf09e5d1ed.png)
+![image](https://user-images.githubusercontent.com/7460892/131240765-b6d5b18d-aa4c-4a97-9143-e36d2f5fce8c.png)
 
 ---
 ### **Outcome for Classification**
