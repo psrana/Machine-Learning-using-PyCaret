@@ -1,5 +1,6 @@
 ---
 # **PyCaret for Machine Learning**
+---
 - It is a bundle of many Machine Learning algorithms.
 - Only three lines of code is required to compare 20 ML models.
 - Pycaret is available for:
@@ -9,11 +10,13 @@
 
 ---
 ### **Self Learning Resource**
+---
 Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a> 
 
 
 ---
 ### **In this tutorial we will learn:**
+---
 - Getting Data: How to import data from PyCaret repository
 - Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
 - Create Model: How to create a model, perform cross validation and evaluate regression metrics
@@ -25,6 +28,7 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 
 ---
 ### **Three line of code for model comparison for "Insurance" dataset**
+---
 ```
 from pycaret.datasets import get_data
 from pycaret.regression import *
@@ -35,14 +39,17 @@ cm = compare_models()
 ```
 ---
 ### **Outcome for Regression**
+---
 ![image](https://user-images.githubusercontent.com/7460892/131240765-b6d5b18d-aa4c-4a97-9143-e36d2f5fce8c.png)
 
 ---
 ### **Outcome for Classification**
+---
 ![image](https://user-images.githubusercontent.com/7460892/131240746-52a257aa-6ebd-4b23-a35a-723b28531247.png)
 
 ---
 ### **Outcome for Clustering**
+---
 ![image](https://user-images.githubusercontent.com/7460892/131206252-10a4e5ec-ec8f-4017-8617-ae46d47dcdcf.png)
 
 
