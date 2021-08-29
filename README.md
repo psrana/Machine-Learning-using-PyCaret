@@ -39,7 +39,7 @@ cm = compare_models()
 
 ---
 ### **Outcome for Classification**
-![image](https://user-images.githubusercontent.com/7460892/131240694-4ef0cbc8-d76f-416c-b6cf-b739be16d308.png)
+![image](https://user-images.githubusercontent.com/7460892/131240746-52a257aa-6ebd-4b23-a35a-723b28531247.png)
 
 ---
 ### **Outcome for Clustering**
